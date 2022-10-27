@@ -1,0 +1,6 @@
+params_user:
+  private_key: 4a46ef72e2d68b3f02fc0ce8765d8eabc41b59eb052655d7d848320255fce9f5
+
+params_provider:
+  provider_url: ws://localhost:8545
+  private_key: 420ae3d45748435cdf6825a112eb1bbaca6d96ccd13741a673fd52c0d3876ea5
